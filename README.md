@@ -5,6 +5,6 @@
 - [Настройка программного обеспечения](/настройка-программного-обеспечения)
 - ___
 - ### 🎥 Демонстрация работы RFID-замка
-[![▶️ Смотреть видео](assets/image.jpg)](https://github.com/apex161rus/Arduino_RFID_Lock/blob/main/assets/video.mp4?raw=true)
+[![▶️ Смотреть видео](assets/image.jpg)](https://github.com/apex161rus/Arduino_RFID_Lock/blob/master/assets/video.mp4?raw=true)
 
 ---
