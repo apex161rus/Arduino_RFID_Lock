@@ -1,0 +1,10 @@
+# Системные файлы macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+
+# Папки и настройки IDE
+*.vscode/
+*.theia/
